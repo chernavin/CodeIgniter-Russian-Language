@@ -18,13 +18,12 @@ $lang['is_numeric']			= 'Поле &quot;%s&quot; должно содержать
 $lang['integer']			= 'Поле &quot;%s&quot; должно содержать целое число.';
 $lang['regex_match']		= 'Поле &quot;%s&quot; заполнено в неверном формате.';
 $lang['matches']			= 'Поле &quot;%s&quot; должно соответствовать значению в поле &quot;%s&quot;.';
-$lang['is_unique'] 			= 'Поле &quot;%s&quot; должно содержать уникальное значение.';
+/*$lang['is_unique'] 			= 'Поле &quot;%s&quot; должно содержать уникальное значение.';*/
 $lang['is_natural']			= 'Поле &quot;%s&quot; должно содержать положительное число.';
 $lang['is_natural_no_zero']	= 'Поле &quot;%s&quot; должно содержать число больше нуля.';
 $lang['decimal']			= 'Поле &quot;%s&quot; должно содержать десятичное число.';
 $lang['less_than']			= 'Поле &quot;%s&quot; должно содержать число меньше чем %s.';
 $lang['greater_than']		= 'Поле &quot;%s&quot; должно содержать число больше чем %s.';
-
 
 /* End of file form_validation_lang.php */
 /* Location: ./system/language/russian/form_validation_lang.php */

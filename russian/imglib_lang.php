@@ -20,6 +20,5 @@ $lang['imglib_copy_failed']				= 'Копирование изображения 
 $lang['imglib_missing_font']			= 'Невозможно найти шрифт.';
 $lang['imglib_save_failed']				= 'Невозможно сохранить изображение. Пожалуйста, убедитесь что изображение и каталог доступны для записи.';
 
-
 /* End of file imglib_lang.php */
 /* Location: ./system/language/russian/imglib_lang.php */

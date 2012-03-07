@@ -20,6 +20,5 @@ $lang['email_smtp_auth_pw']				= 'Сбой при проверке пароля.
 $lang['email_smtp_data_failure']		= 'Невозможно отправить данные: %s';
 $lang['email_exit_status']				= 'Статус код: %s';
 
-
 /* End of file email_lang.php */
 /* Location: ./system/language/russian/email_lang.php */
